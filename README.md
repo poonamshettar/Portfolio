@@ -7,7 +7,7 @@
 <dt>Name</dt>
 <dd>Poonam M Shettar</dd>
 <dt>University</dt>
-<dd>KLE Technological University, Hubballi-31</dd>
+<dd>KLE Technological University, Hubballi</dd>
 </dl>
 ## Linux Operating System (Ubuntu)
 Welcome to my portfolio! Within this repository, you'll find my ideas,exploaration and contributions focused on the Linux operating system, specifically Ubuntu.
