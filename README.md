@@ -1,4 +1,14 @@
 # Portfolio
+<dl>
+<dt>Course Name</dt>
+<dd>Algorithmic Problem Solving</dd>
+<dt>Course Code</dt>
+<dd>23ECSE309</dd>
+<dt>Name</dt>
+<dd>Poonam M Shettar</dd>
+<dt>University</dt>
+<dd>KLE Technological University, Hubballi-31</dd>
+</dl>
 ## Linux Operating System (Ubuntu)
 Welcome to my portfolio! Within this repository, you'll find my ideas,exploaration and contributions focused on the Linux operating system, specifically Ubuntu.
 ### Introduction
