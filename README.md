@@ -1,4 +1,5 @@
 # Portfolio
+
 <dl>
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
@@ -12,11 +13,11 @@
 <dd>KLE Technological University, Hubballi</dd>
 </dl>
 
-* * *
->
-## Linux Operating System (Ubuntu)
-Welcome to my portfolio! Within this repository, you'll find my ideas,exploaration and contributions focused on the Linux operating system, specifically Ubuntu.
+---
+
+> ##Cyber Security: Leveraging Data Structures and Algorithms
+> Welcome to my portfolio! Within this repository, you'll find my ideas and exploarations towards cyber-security utilizing data structures and algorithms
+
 ### Introduction
-Linux is an open-source operating system renowned for its stability, security, and flexibility. With a robust kernel at its core, Linux empowers users with a wealth of choices through its diverse distributions and customizable environments. From desktop computing to server hosting, Linux shines as a versatile solution, supported by a vibrant global community. Its open nature fosters innovation and collaboration, making Linux a cornerstone of modern computing.<br>
-<br>
-Ubuntu, a leading Linux distribution, is revered for its user-friendly interface and robust community support. Built on Debian, it strikes a balance between stability and innovation, making it ideal for desktop and server use.Its emphasis on accessibility and ease of use has contributed to its widespread adoption, cementing Ubuntu's position as one of the most prominent distributions within the Linux ecosystem.
+
+Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, attacks, and damage. It involves deploying measures like firewalls, encryption, and secure authentication to safeguard sensitive information. As digital threats continue to evolve, cybersecurity professionals constantly adapt and innovate to stay ahead. By detecting vulnerabilities, responding to incidents, and implementing preventive measures, they ensure the integrity, confidentiality, and availability of digital assets. In today's interconnected world, effective cybersecurity is essential for both individuals and organizations to mitigate risks and maintain trust in the digital ecosystem.<br>
