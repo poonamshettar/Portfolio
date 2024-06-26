@@ -4,4 +4,4 @@ A Trie, also known as prefix tree which is a tree like data structure that can b
 
 ### Time Complexity of Trie
 
-![Alt text](images/trie.png)
+<img title="Time Complexity of Trie" alt="Alt text" src="images/trie.png">
