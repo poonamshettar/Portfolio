@@ -34,4 +34,4 @@ Cybersecurity is the practice of protecting computer systems, networks, and data
 #### Data Integrity verification using CRC(Cyclic Redundancy Check)
 
 CRC is widely used for error detection on network devices for maitaining data integrity between the sender and the reciever.CRC is preferred in various applications such as in telecommunications, networking protocols and disk storage systems as it is simple and effecient to implement.
-Here are my codes to crc [crc](Portfolio\codes\CRC\crc.md)
+Here are my codes to crc [crc](codes\CRC\crc.md)
