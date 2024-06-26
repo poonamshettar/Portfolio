@@ -26,3 +26,12 @@ Welcome to my portfolio! Within this repository, you'll find my ideas and exploa
 ### Introduction
 
 Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, attacks, and damage. It involves deploying measures like firewalls, encryption, and secure authentication to safeguard sensitive information. As digital threats continue to evolve, cybersecurity professionals constantly adapt and innovate to stay ahead. By detecting vulnerabilities, responding to incidents, and implementing preventive measures, they ensure the integrity, confidentiality, and availability of digital assets. In today's interconnected world, effective cybersecurity is essential for both individuals and organizations to mitigate risks and maintain trust in the digital ecosystem.<br>
+
+### Use Cases
+
+1. Data Integrity
+
+#### Data Integrity verification using CRC(Cyclic Redundancy Check)
+
+CRC is widely used for error detection on network devices for maitaining data integrity between the sender and the reciever.CRC is preferred in various applications such as in telecommunications, networking protocols and disk storage systems as it is simple and effecient to implement.
+Here are my codes to crc [crc](#C:\APS-Portfolio\Portfolio\codes\CRC\crc.md)
