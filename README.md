@@ -15,8 +15,8 @@
 
 ---
 
-> ##Cyber Security: Leveraging Data Structures and Algorithms
-> Welcome to my portfolio! Within this repository, you'll find my ideas and exploarations towards cyber-security utilizing data structures and algorithms
+##Cyber Security: Leveraging Data Structures and Algorithms
+Welcome to my portfolio! Within this repository, you'll find my ideas and exploarations towards cyber-security utilizing data structures and algorithms
 
 ### Introduction
 
