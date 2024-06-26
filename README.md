@@ -22,6 +22,7 @@ Welcome to my portfolio! Within this repository, you'll find my ideas and exploa
 ## Contents
 
 1. [Introduction](#introduction)
+2. [Use Cases](#use-cases)
 
 ### Introduction
 
@@ -29,9 +30,13 @@ Cybersecurity is the practice of protecting computer systems, networks, and data
 
 ### Use Cases
 
-1. Data Integrity
+### 1. Data Integrity
 
 #### Data Integrity verification using CRC(Cyclic Redundancy Check)
 
 CRC is widely used for error detection on network devices for maitaining data integrity between the sender and the reciever.CRC is preferred in various applications such as in telecommunications, networking protocols and disk storage systems as it is simple and effecient to implement.
 Here are my codes to crc [crc](codes/CRC/crc.md)
+
+### 2.IP Routing
+
+IP routing is crucial for cyber security by helping in correct forwarding of data packets across networks.It helps in traffic Managment,IP-spoofing and mitigating DDos attacks. Also,it enables network segmentation thereby reducing malware spread.As IP address are stored in binary sequences Tries can be used for efficient storage and retrieval of these sequences where trie represents IP address. Here's further [eloboration](Explanations/IP_routing.md)
