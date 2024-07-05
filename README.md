@@ -26,6 +26,8 @@ Welcome to my portfolio! Within this repository, you'll find my ideas and exploa
 
 ### Introduction
 
+![intro][../images/security_intro_img.webp]
+
 Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, attacks, and damage. It involves deploying measures like firewalls, encryption, and secure authentication to safeguard sensitive information. As digital threats continue to evolve, cybersecurity professionals constantly adapt and innovate to stay ahead. By detecting vulnerabilities, responding to incidents, and implementing preventive measures, they ensure the integrity, confidentiality, and availability of digital assets. In today's interconnected world, effective cybersecurity is essential for both individuals and organizations to mitigate risks and maintain trust in the digital ecosystem.<br>
 
 ### Use Cases
@@ -40,3 +42,7 @@ Here are my codes to crc [crc](codes/CRC/crc.md)
 ### 2.IP Routing
 
 IP routing is crucial for cyber security by helping in correct forwarding of data packets across networks.It helps in traffic Managment,IP-spoofing and mitigating DDos attacks. Also,it enables network segmentation thereby reducing malware spread.As IP address are stored in binary sequences Tries can be used for efficient storage and retrieval of these sequences where trie represents IP address. Here's further [eloboration](Explanations/IP_routing.md)
+
+### 3.Key generation for encryption and decryption
+
+The strength of a network basically depends on the difficulty for the hacker to obtain the plain text from the cipher text.The strength of this cipher text often depends on the keys used.
