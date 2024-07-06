@@ -26,7 +26,7 @@ Welcome to my portfolio! Within this repository, you'll find my ideas and exploa
 
 ### Introduction
 
-<!-- ![intro](images/security_intro_img.webp) -->
+![intro](images/security_intro_img.webp)
 
 Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, attacks, and damage. It involves deploying measures like firewalls, encryption, and secure authentication to safeguard sensitive information. As digital threats continue to evolve, cybersecurity professionals constantly adapt and innovate to stay ahead. By detecting vulnerabilities, responding to incidents, and implementing preventive measures, they ensure the integrity, confidentiality, and availability of digital assets. In today's interconnected world, effective cybersecurity is essential for both individuals and organizations to mitigate risks and maintain trust in the digital ecosystem.<br>
 
