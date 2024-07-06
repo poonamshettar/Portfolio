@@ -32,18 +32,59 @@ Cybersecurity is the practice of protecting computer systems, networks, and data
 
 ### Use Cases
 
-### 1. Data Integrity
+### 1. Data Integrity Verification
 
-#### Data Integrity verification using CRC(Cyclic Redundancy Check)
+Data integrity verification is important for protecting data from unauthorized access,corruption and other cyber threats.The verification guarantees data accuracy making organizations to confidently rely on information.It helps in ensurin the data remains consistent and unchanged by unauthorized entities throughout its lifetime.
 
-CRC is widely used for error detection on network devices for maitaining data integrity between the sender and the reciever.CRC is preferred in various applications such as in telecommunications, networking protocols and disk storage systems as it is simple and effecient to implement.
+### Challenges:
 
-<!-- Here are my codes to crc [crc](codes/CRC/crc.md) -->
+System complexity, Data volume, Performance.
 
-<!-- ### 2.IP Routing
+### Market Benifits:
 
-IP routing is crucial for cyber security by helping in correct forwarding of data packets across networks.It helps in traffic Managment,IP-spoofing and mitigating DDos attacks. Also,it enables network segmentation thereby reducing malware spread.As IP address are stored in binary sequences Tries can be used for efficient storage and retrieval of these sequences where trie represents IP address. Here's further [eloboration](Explanations/IP_routing.md) -->
+Enhanced trust,Reputation protection,Risk Managment.
 
-### 3.Key generation in RSA
+[Explore_the_detatils](Explanations/Data_integrity_verification.md)
+
+### 2.IP Routing
+
+IP routing is crucial for cyber security by helping in correct forwarding of data packets across networks.It helps in traffic Managment,IP-spoofing and mitigating DDos attacks. Also,it enables network segmentation thereby reducing malware spread.
+
+### Challenges:
+
+Scalability,Security Vulunerabilities.
+
+### Market Benifits:
+
+Enhanced security, Improved traffic managment.
+
+[Explore_the_details](Explanations/IP_routing.md)
+
+### 3.Encryption and Decryption
 
 The strength of a network basically depends on the difficulty for the hacker to obtain the plain text from the cipher text.The strength of this cipher text often depends on the keys used.
+
+- RSA
+
+### 4.Data Compression
+
+The primary goal of compression is in maintaining the integrity of the data/file while reducing its storage space.
+
+- Compression before Encryption- An extra layer of security as encrypted data is not directly decipherable by malicious entities.
+- Storage Optimization- reducing the high cost investment on disk space for cybersecurity companies which have vast amount of databse.
+
+### 5.Network Traffic Analysis
+
+### 6.Intrusion Detection System
+
+A\* search
+
+### 7.Access Control
+
+### 8.Secure Random Number Generation
+
+Entropy pool
+
+### 9.Secure Key Storage
+
+### 10.
