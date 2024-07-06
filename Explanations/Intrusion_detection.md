@@ -1,0 +1,4 @@
+- <b>Priority Queue</b>
+- <b>Union-Find:</b>(Network Segmentation) Identifying clusters of interconnected nodes helping in segmentation of network for targeted monitoring and security measures.
+- <b>Bellman-Ford</b>(Analmoly Detection) Compute shortest pah to detect unusual traffic patterns or deviations
+- <b>Trie</b>(Pattern Matching) rapid detection of known threats.

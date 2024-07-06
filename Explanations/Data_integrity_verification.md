@@ -43,11 +43,10 @@ This works on the base that "the remainder remains the same for the same dividen
 
 [click for implementation](../codes/CRC/crc_lookup_table.cpp)
 
-| **Aspect**           | **First Code**                                    | **Third Code**                                        | **Second Code**                                  |
-| -------------------- | ------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
-| **Approach**         | Basic CRC Calculation using manual XOR and shifts | Decimal-Binary Conversion Approach                    | Lookup Table Optimization                        |
-| **Initialization**   | Padding data with zeros, initializing check_value | Convert binary strings to decimal                     | Precompute lookup table                          |
-| **Main Calculation** | Bitwise operations with nested loops              | Bitwise operations on decimal representations         | Use precomputed lookup table for CRC calculation |
-| **Complexity**       | \( O(data_length \cdot N) \)                      | \( O(n) \)                                            | \( O(length) \)                                  |
-| **Efficiency**       | Less efficient for large data sizes               | Efficient but with higher constant factors            | Highly efficient                                 |
-| **Use Case**         | Educational, understanding basic CRC calculations | Understanding CRC in both binary and decimal contexts | Performance-critical applications                |
+| **Aspect**         | **Naive**                                         | **Bit Manipulation**                       | **Lookup Table**                  |
+| ------------------ | ------------------------------------------------- | ------------------------------------------ | --------------------------------- |
+| **Approach**       | Basic CRC Calculation using manual XOR and shifts | Decimal-Binary Conversion Approach         | Lookup Table Optimization         |
+| **Initialization** | Padding data with zeros, initializing check_value | Convert binary strings to decimal          | Precompute lookup table           |
+| **Complexity**     | \( O(data_length\*N) \)                           | \( O(n) \)                                 | \( O(length) \)                   |
+| **Efficiency**     | Less efficient for large data sizes               | Efficient but with higher constant factors | Highly efficient                  |
+| **Use Case**       | Educational, understanding                        | Understanding CRC in both binary contexts  | Performance-critical applications |

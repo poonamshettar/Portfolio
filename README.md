@@ -1,4 +1,4 @@
-<!-- # Portfolio
+# Portfolio
 
 <dl>
 <dt>Course Name</dt>
@@ -73,7 +73,7 @@ Secure Network.
 The primary goal of compression is in maintaining the integrity of the data/file while reducing its storage space.
 
 - Compression before Encryption- An extra layer of security as encrypted data is not directly decipherable by malicious entities.
-- Storage Optimization- reducing the high cost investment on disk space for cybersecurity companies which have vast amount of databse.
+- Storage Optimization- reducing the high cost investment on disk space for cybersecurity companies which have vast amount of database.
 
 #### Challenges:
 
@@ -89,14 +89,94 @@ Bandwidth optimization,Cost Reduction,Improved Performance,Enhanced security.
 
 ### 6.Intrusion Detection System
 
-A\* search
+It helps in monitoring network or system activities for malicious activities.It can be used to avoid risks and maintain network integrity.
+
+#### Challenges:
+
+- Complexity of threats-sophiscated and evolving attack techniques.
+- Timely detection.
+
+#### Market Benifits:
+
+Early detection of cyber threats.
+
+[Explore the details](Explanations/Intrusion_detection.md)
+
+### 7.Network Security and optimization
+
+Network security becomes a major part of cyber security and to build these secure networks it is important to optimize networks for iddentifying critical nodes, improving security measures to build secure networks.
+
+#### Challenges:
+
+- Complexity of Networks - diverse topologies and configurations.
+- Development of security measures with network performance.
+
+#### Market Benifits:
+
+- Improved reliability
+
+[Explore the details](Explanations/Network_security_and_optimization.md)
 
 ### 7.Access Control
 
+It regulates who can view what resources in a computing environment.It helps in preventing unauthorized access to data and resources thereby protecting sensitive information.
+
+#### Challenges:
+
+- Complexity in managment- With larger data resources become difficult to handle.
+- scaling without performance degradation
+
+#### Market Benifits:
+
+- Protecting sensitive information from unauthorised access.
+
+[Explore the details](Explanations/access_control.md)
+
 ### 8.Secure Random Number Generation
 
-Entropy pool
+Secure random number generation is important in context of cybersecurity to ensure integrity and confidentiality of sensitive systems and data.It involves producing unpredictable and unbiased numbers.It is essential in cryptographic protocolsa and secure communications.
 
-### 9.Secure Key Storage
+#### Challenges:
 
-### 10. -->
+- Cryptographic Strength-Ensuring resistance of generated numbers to predictive attacks.
+
+#### Market benifits:
+
+- Security in cryptographic operations such as encryption keys, digital signatures and secure communications.
+- Reduce risk of cryptographic vulnerabilities.
+
+[Explore the details](Explanations/Secure_rand_gen.md)
+
+### 9.Malware Detection
+
+The aim of malware detection is to identify and mitigate malicious software that can steal data and disrupt operations.It is one of the critical aspect of cybersecurity.
+
+#### Challenges
+
+- Increased latency, affecting system performance.
+- Encrypted Malwares- difficult to identify.
+
+#### Market Benifits
+
+- Reduces risk of financial loss,operational disruption and reputational damage.
+- Customer Trust.
+- Can minimize system downtime.
+
+### 10.Encrypttion Key Management
+
+For any secure network it is critical to ensure keys are generated and stored securely throughout their lifetime.Effective key managment helps in preventing unauthorized access thereby mainatining integrity and confidentiality of data.
+
+#### Challenges
+
+- scalability- can be complex and resource-intensive.
+- secure generation and storage of keys.
+
+#### Market Benifits
+
+- Protection of sensitive data from unauthorized access
+
+### 11.Unique Element Tracking
+
+Used in threat intelligence systems for tracking unique items such as ip address or domain names.This helps faster response and mitigation by quick identification of new or previously unseen threats.
+
+### 12.Maintaining Chronological audit logs
