@@ -35,13 +35,15 @@ CRC using the naive appraoch will work efficiently for 8-bit data but for real t
 
 Both naive approach and bit manipulation are not efficient for real time applications.
 
-##### 3.CRC using Lookup table
+#### 3.CRC using Lookup table
 
 This works on the base that "the remainder remains the same for the same dividend and divisor".Hence,it can be precomputed for any fixed polynomial and store it in a lookup table.
 
 <b>Time Complexity:</b>O(data_length)
 
 [click for implementation](../codes/CRC/crc_lookup_table.cpp)
+
+#### Comparision of the threee methods of CRC used
 
 | **Aspect**         | **Naive**                                         | **Bit Manipulation**                       | **Lookup Table**                  |
 | ------------------ | ------------------------------------------------- | ------------------------------------------ | --------------------------------- |
