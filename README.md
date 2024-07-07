@@ -180,5 +180,3 @@ For any secure network it is critical to ensure keys are generated and stored se
 Used in threat intelligence systems for tracking unique items such as ip address or domain names.This helps faster response and mitigation by quick identification of new or previously unseen threats.
 
 ### 12.Maintaining Chronologogical -->
-
-inst/CITATION.bib
