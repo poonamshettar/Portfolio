@@ -1,4 +1,4 @@
-# 🔐Cyber Armor - Algorithmic Secirity🔐
+<!-- # 🔐Cyber Armor - Algorithmic Security🔐
 
 ---
 
@@ -31,6 +31,14 @@ Cybersecurity is the practice of protecting computer systems, networks, and data
 ---
 
 ### ❓Why Cyber-Security?
+
+In today's digital age, cybersecurity has become critically important as technology continues to advance. It's essential to ensure the security of digital systems and data against a growing array of cyber threats like malware and data breaches.
+
+### Objectives
+
+- Identify use cases governing cyber-security.
+- Identify key algorithms, data structures, or system design techniques currently in use or with potential applications in enhancing Cyber-security.
+- Create a resource to understand the intersection of data structures, algorithms, and real-world applications in cybersecurity.
 
 ### Use Cases
 
@@ -284,8 +292,13 @@ Encryption plays a crucial role in cybersecurity by converting plain text to cip
 ### Refrences
 
 [1] M. Saračević, S. Adamović, and E. Biševac, "Application of Catalan Numbers and the Lattice Path Combinatorial Problem in Cryptography," _Acta Polytechnica Hungarica_, vol. 15, no. 7, pp. 91-106, 2018.
+
 [2] lockchain Academy Mittweida, "Merkle Tree," accessed July 8, 2024. [Online]. Available: https://blockchain-academy.hs-mittweida.de/merkle-tree/.
+
 [3] DataFlair, "Error Detection and Correction in Computer Network," DataFlair Training. [Online]. Available: https://data-flair.training/blogs/error-detection-and-correction-in-computer-network/.
+
 [4] T. Talpey, "Storing and retrieving IP prefixes efficiently," APNIC Blog, June 4, 2021. [Online]. Available: https://blog.apnic.net/2021/06/04/storing-and-retrieving-ip-prefixes-efficiently/.
+
 [5] "The trie lookup structure associated with the routing table given in Table 7," ResearchGate, [Online]. Available: https://www.researchgate.net/figure/The-trie-lookup-structure-associated-with-the-routing-table-given-in-Table-7_fig3_220770958.
-[6]
+
+[6] -->
