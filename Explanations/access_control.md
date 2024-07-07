@@ -16,10 +16,14 @@ In RBAC permissions are associated with roles and roles are assigned to users.
 
 - Depth-First-Search(DFS) and Breadth-First-Search(BFS):Traverse role hirearchies to determine effective permissions for a user.
   [click for code of dfs and bfs](codes/Graph.c)
-  <b>Complexity Analysis</b>\
-  |**Algorithm**|**Time Complexity**|**Space Complexity**|
-  |DFS|O(V\*E)|O(V)|
-  |BFS|O(V+E)|O(V)|
+  <br>
+  <b>Complexity Analysis</b>
+  <br>
+
+| **Algorithm** | **Time Complexity** | **Space Complexity** |
+| ------------- | ------------------- | -------------------- |
+| DFS           | O(V \* E)           | O(V)                 |
+| BFS           | O(V + E)            | O(V)                 |
 
 - Djikstra's Algorithm: Shortest path in permission hirearchies for least privilege access.
 
