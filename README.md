@@ -1,24 +1,17 @@
 # 🔐Cyber Armor - Algorithmic Secirity🔐
 
-<dl>
-<dt>Course Overview</dt>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>23ECSE309</dd>
-<dt>Course Instructor</dt>
-<dd>Prakash Hegade</dd>
-</dl>
-
 ---
 
-<dl>
-<dt>About me</dt>
-<dt>Name</dt>
-<dd>Poonam M Shettar</dd>
-<dt>University</dt>
-<dd>KLE Technological University, Hubballi</dd>
-</dl>
+### Course Overview
+
+- **Course Name:** Algorithmic Problem Solving
+- **Course Code:** 23ECSE309
+- **Course Instructor:** Prakash Hegade
+
+### About Me
+
+- **Name:** Poonam M Shettar
+- **University:** KLE Technological University, Hubballi
 
 ---
 
@@ -33,7 +26,7 @@ Welcome to my portfolio! Within this repository, you'll find my ideas and exploa
 
 ### Introduction
 
-Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, attacks, and damage. It involves deploying measures like firewalls, encryption, and secure authentication to safeguard sensitive information. As digital threats continue to evolve, cybersecurity professionals constantly adapt and innovate to stay ahead. By detecting vulnerabilities, responding to incidents, and implementing preventive measures, they ensure the integrity, confidentiality, and availability of digital assets. In today's interconnected world, effective cybersecurity is essential for both individuals and organizations to mitigate risks and maintain trust in the digital ecosystem.<br>
+Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, attacks, and damage. It involves deploying measures like firewalls, encryption, and secure authentication to safeguard sensitive information. As digital threats continue to evolve, cybersecurity professionals constantly adapt and innovate to stay ahead. By detecting vulnerabilities, responding to incidents, and implementing preventive measures, they ensure the integrity, confidentiality, and availability of digital assets. In today's interconnected world, effective cybersecurity is essential for both individuals and organizations to mitigate risks and maintain trust in the digital ecosystem.
 
 ---
 
@@ -46,7 +39,7 @@ Data integrity verification is important for protecting data from unauthorized a
 #### Challenges:
 
 - Latency - Degradation of network performance.
-- Computation Overhead.📍
+- Computation Overhead.
 
 #### Market Benifits:
 
