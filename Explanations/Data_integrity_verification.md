@@ -3,7 +3,7 @@
 For effeciently verifying large sets of data merkle tree also known as hash trees can be used.Merkle trees, highly valued for its capacity to detect changes in data makes it a fundamental component in technologies that demand strong data verification mechanisms.
 
 <p align="center">
-  <img src="../images/merkle.webp" alt="Merkle Tree Image" style="width: 500px;">
+  <img src="../images/merkle.webp" alt="Merkle Tree Image" style="width: 400px;">
   <br>
   <em>Figure 1: Merkle Trees [<a href="https://blockchain-academy.hs-mittweida.de/merkle-tree/">2</a>]</em>
 </p>
@@ -13,6 +13,12 @@ For effeciently verifying large sets of data merkle tree also known as hash tree
 #### CRC(Cyclic Redundancy Check)
 
 CRC is widely used for error detection on network devices for maitaining data integrity between the sender and the reciever.CRC is preferred in various applications such as in telecommunications, networking protocols and disk storage systems as it is simple and effecient to implement.
+
+<p align="center">
+  <img src="../images/crc.jpeg" alt="CRC Image" style="width: 400px;">
+  <br>
+  <em>Figure 1: CRC flow [<a href="https://data-flair.training/blogs/error-detection-and-correction-in-computer-network/">3</a>]</em>
+</p>
 
 ##### 1.Naive CRC
 
