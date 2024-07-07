@@ -179,7 +179,7 @@ It regulates who can view what resources in a computing environment.It helps in 
 
 ---
 
-### 8.Secure Random Number Generation
+### 8.🔢 Secure Random Number Generation
 
 Secure random number generation is important in context of cybersecurity to ensure integrity and confidentiality of sensitive systems and data.It involves producing unpredictable and unbiased numbers.It is essential in cryptographic protocolsa and secure communications.
 
@@ -213,6 +213,8 @@ The aim of malware detection is to identify and mitigate malicious software that
 
 [Explore the details](Explanations/Malware_detection.md)
 
+---
+
 ### 10.🗝️Encrypttion Key Management
 
 For any secure network it is critical to ensure keys are generated and stored securely throughout their lifetime.Effective key managment helps in preventing unauthorized access thereby mainatining integrity and confidentiality of data.
@@ -227,6 +229,8 @@ For any secure network it is critical to ensure keys are generated and stored se
 - Protection of sensitive data from unauthorized access.
 
 [Explore the details](Explanations/encryption_key_mgmt.md)
+
+---
 
 ### 11.🏃‍♂️Unique Element Tracking
 
@@ -258,3 +262,5 @@ Audit-logs serve as critical information for mainatining chronological sequence 
 - Risk mitigation.
 
 [Explore the details](Explanations/Chronological.md)
+
+---
