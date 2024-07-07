@@ -1,3 +1,23 @@
+### Merkle Trees
+
+Used for data verification and syncronization.
+
+#### Complexity Analysis
+
+##### Complexity Analysis
+
+| Operation       | Complexity |
+| --------------- | ---------- |
+| Space           | O(n)       |
+| Searching       | O(logn)    |
+| Traversal       | O(n)       |
+| Insertion       | O(logn)    |
+| Deletion        | O(logn)    |
+| Synchronization | O(logn)    |
+
+#### Code
+
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 int maxim = 15;
@@ -306,3 +326,4 @@ int main()
     } while (c == 1);
     return 0;
 }
+```

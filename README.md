@@ -22,7 +22,7 @@
 
 ---
 
-# 🔐Cyber Security: Leveraging Data Structures and Algorithms 🔐
+## Cyber Security: Leveraging Data Structures and Algorithms
 
 Welcome to my portfolio! Within this repository, you'll find my ideas and exploarations towards cyber-security utilizing data structures and algorithms.
 
@@ -39,55 +39,60 @@ Cybersecurity is the practice of protecting computer systems, networks, and data
 
 ### Use Cases
 
-### 1. Data Integrity Verification
+### 1.✅ Data Integrity Verification
 
 Data integrity verification is important for protecting data from unauthorized access,corruption and other cyber threats.The verification guarantees data accuracy making organizations to confidently rely on information.It helps in ensurin the data remains consistent and unchanged by unauthorized entities throughout its lifetime.
 
-### Challenges:
+#### Challenges:
 
-Latency
+- Latency - Degradation of network performance.
+- Computation Overhead.📍
 
-### Market Benifits:
+#### Market Benifits:
 
-Enhanced trust,Reputation protection,Risk Managment.
+- Enhanced trust.
+- Reputation protection of organizations.
+- Risk Managment.
 
 [Explore the detatils](Explanations/Data_integrity_verification.md)
 
 ---
 
-### 2.IP Routing
+### 2.📍 IP Routing
 
 IP routing is crucial for cyber security by helping in correct forwarding of data packets across networks.It helps in traffic Managment,IP-spoofing and mitigating DDos attacks. Also,it enables network segmentation thereby reducing malware spread.
 
-### Challenges:
+#### Challenges:
 
-Scalability,Security Vulunerabilities.
+- Scalability- increasing network elemnts.
+- Security Vulunerabilities.
 
-### Market Benifits:
+#### Market Benifits:
 
-Enhanced security, Improved traffic managment.
+- Enhanced security
+- Improved traffic managment.
 
 [Explore the details](Explanations/IP_routing.md)
 
 ---
 
-### 3.Key Generation for Encryption and Decryption
+### 3.🔑 Key Generation for Encryption and Decryption
 
 The strength of a network basically depends on the difficulty for the hacker to obtain the plain text from the cipher text.The strength of this cipher text often depends on the keys used.For any safe network it is critical to have a stronger key making it impossible for the hacker to hack.
 
 #### Challenges:
 
-Stronger Unique inaccessible Key generation.
+- Stronger Unique inaccessible Key generation.
 
 #### Market Benifits:
 
-Secure Network.
+- Secure Network with stronger keys.
 
 [Explore the details](Explanations/key_generation.md)
 
 ---
 
-### 4.Data Compression
+### 4.🗜️ Data Compression
 
 The primary goal of compression is in maintaining the integrity of the data/file while reducing its storage space.
 
@@ -96,7 +101,8 @@ The primary goal of compression is in maintaining the integrity of the data/file
 
 #### Challenges:
 
-storage efficiency
+- storage efficiency.
+- Overhead for compression.
 
 #### Market Benifits:
 
@@ -106,17 +112,25 @@ Bandwidth optimization,Cost Reduction,Improved Performance,Enhanced security.
 
 ---
 
-### 5.Network Traffic Analysis
+### 5.🚦Network Traffic Analysis
+
+Analysis of network traffic is critical for cyber-secuirty.It involves monitoring and examining data flowing across a network to detect anomalies, threats, and potential security breaches
 
 #### Challenges:
 
+- handling large volumes of data.
+- identifying sophiscated attack patterns.
+
 #### Market Benifits:
 
-- Enhanced threat detection
+- Enhanced threat detection.
+- mitigate risks effectively.
 
 [Explore the details](Explanations/network_traffic_analysis.md)
 
-### 6.Intrusion Detection System
+---
+
+### 6.🕵️ Intrusion Detection System
 
 It helps in monitoring network or system activities for malicious activities.It can be used to avoid risks and maintain network integrity.
 
@@ -127,11 +141,11 @@ It helps in monitoring network or system activities for malicious activities.It 
 
 #### Market Benifits:
 
-Early detection of cyber threats.
+- Early detection of cyber threats.
 
 [Explore the details](Explanations/Intrusion_detection.md)
 
-### 7.Network Security and optimization
+### 7.🛠️ Network Security and optimization
 
 Network security becomes a major part of cyber security and to build these secure networks it is important to optimize networks for iddentifying critical nodes, improving security measures to build secure networks.
 
@@ -146,7 +160,9 @@ Network security becomes a major part of cyber security and to build these secur
 
 [Explore the details](Explanations/Network_security_and_optimization.md)
 
-### 7.Access Control
+---
+
+### 7.🎮 Access Control
 
 It regulates who can view what resources in a computing environment.It helps in preventing unauthorized access to data and resources thereby protecting sensitive information.
 
@@ -160,6 +176,8 @@ It regulates who can view what resources in a computing environment.It helps in 
 - Protecting sensitive information from unauthorised access.
 
 [Explore the details](Explanations/access_control.md)
+
+---
 
 ### 8.Secure Random Number Generation
 
@@ -176,7 +194,9 @@ Secure random number generation is important in context of cybersecurity to ensu
 
 [Explore the details](Explanations/Secure_rand_gen.md)
 
-### 9.Malware Detection
+---
+
+### 9.🦠 Malware Detection
 
 The aim of malware detection is to identify and mitigate malicious software that can steal data and disrupt operations.It is one of the critical aspect of cybersecurity.
 
@@ -193,7 +213,7 @@ The aim of malware detection is to identify and mitigate malicious software that
 
 [Explore the details](Explanations/Malware_detection.md)
 
-### 10.Encrypttion Key Management
+### 10.🗝️Encrypttion Key Management
 
 For any secure network it is critical to ensure keys are generated and stored securely throughout their lifetime.Effective key managment helps in preventing unauthorized access thereby mainatining integrity and confidentiality of data.
 
@@ -208,7 +228,7 @@ For any secure network it is critical to ensure keys are generated and stored se
 
 [Explore the details](Explanations/encryption_key_mgmt.md)
 
-### 11.Unique Element Tracking
+### 11.🏃‍♂️Unique Element Tracking
 
 Used in threat intelligence systems for tracking unique items such as ip address or domain names.This helps faster response and mitigation by quick identification of new or previously unseen threats.
 
@@ -224,7 +244,7 @@ Used in threat intelligence systems for tracking unique items such as ip address
 
 [Explore the details](Explanations/Unique_element_tracking.md)
 
-### 12.Chronological event tracking in Audit logs
+### 12.🪜 Chronological event tracking in Audit logs
 
 Audit-logs serve as critical information for mainatining chronological sequence of security related events.Maintaining a detailed recored of events can help in monitoring anamolies,detecting unauthorized activities to ensure integrity and security.
 

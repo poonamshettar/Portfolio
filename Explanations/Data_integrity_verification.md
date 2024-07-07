@@ -2,18 +2,7 @@
 
 For effeciently verifying large sets of data merkle tree also known as hash trees can be used.Merkle trees, highly valued for its capacity to detect changes in data makes it a fundamental component in technologies that demand strong data verification mechanisms.
 
-[click for implementation](../codes/merkle_tree.cpp)
-
-##### Complexity Analysis
-
-| Operation       | Complexity |
-| --------------- | ---------- |
-| Space           | O(n)       |
-| Searching       | O(logn)    |
-| Traversal       | O(n)       |
-| Insertion       | O(logn)    |
-| Deletion        | O(logn)    |
-| Synchronization | O(logn)    |
+[click for implementation](../codes/merkle_tree.md)
 
 #### CRC(Cyclic Redundancy Check)
 
@@ -25,13 +14,13 @@ CRC using the naive appraoch will work efficiently for 8-bit data but for real t
 
 <b>Time Complexity:</b>O(data_length\*N)
 
-[click for implementation](../codes/CRC/crc_naive.cpp)
+[click for implementation](../codes/CRC/crc_naive.c)
 
 #### 2.CRC using bit manipulation
 
 <b>Time Complexity:</b>O(number of bits)
 
-[click for implementation](../codes/CRC/crc_bits.cpp)
+[click for implementation](../codes/CRC/crc_bits.c)
 
 Both naive approach and bit manipulation are not efficient for real time applications.
 
@@ -41,7 +30,7 @@ This works on the base that "the remainder remains the same for the same dividen
 
 <b>Time Complexity:</b>O(data_length)
 
-[click for implementation](../codes/CRC/crc_lookup_table.cpp)
+[click for implementation](../codes/CRC/crc_lookup_table.c)
 
 #### Comparision of the threee methods of CRC used
 
