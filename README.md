@@ -288,4 +288,4 @@ Encryption plays a crucial role in cybersecurity by converting plain text to cip
 [3] DataFlair, "Error Detection and Correction in Computer Network," DataFlair Training. [Online]. Available: https://data-flair.training/blogs/error-detection-and-correction-in-computer-network/.
 [4] T. Talpey, "Storing and retrieving IP prefixes efficiently," APNIC Blog, June 4, 2021. [Online]. Available: https://blog.apnic.net/2021/06/04/storing-and-retrieving-ip-prefixes-efficiently/.
 [5] "The trie lookup structure associated with the routing table given in Table 7," ResearchGate, [Online]. Available: https://www.researchgate.net/figure/The-trie-lookup-structure-associated-with-the-routing-table-given-in-Table-7_fig3_220770958.
-[5]
+[6]
