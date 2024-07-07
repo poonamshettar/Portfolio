@@ -23,6 +23,6 @@
 
 - A random catalan number is chosen from the set of catalan numbers.
 - The decimal form is converte to binary form and is verified for "bit-balance"(Equal number of 0's and 1's) property.
-- A key using catalan numbers to be qualified as an encryption key must satisfy "bit-balance" property.[1](README.md#ref1)
+- A key using catalan numbers to be qualified as an encryption key must satisfy "bit-balance" property.[[1]](../README.md#ref1)
 
 [click for code](../codes/catalan.md)
