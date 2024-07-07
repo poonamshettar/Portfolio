@@ -47,12 +47,14 @@ In RBAC permissions are associated with roles and roles are assigned to users.
   | Time Complexity  | O(V + E)       |
   | Space Complexity | O(V+E)         |
 
-#### Hirearchial Access Control
+### Hirearchial Access Control:
 
 Subset of RBAC with roles organized in hirearchy adding an extra layer of complexity.
 
-<b>Data Structures used:</b>
+#### Data Structures used:
 
 - tree
 - trie
 - Directed Acyclic Graphs(DAG)
+
+#### Algorithms Used:
