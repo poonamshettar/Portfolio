@@ -181,4 +181,4 @@ Used in threat intelligence systems for tracking unique items such as ip address
 
 ### 12.Maintaining Chronologogical -->
 
-inst/CITATION
+inst/CITATION.bib
