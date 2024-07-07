@@ -56,5 +56,3 @@ Subset of RBAC with roles organized in hirearchy adding an extra layer of comple
 - tree
 - trie
 - Directed Acyclic Graphs(DAG)
-
-#### Algorithms Used:
