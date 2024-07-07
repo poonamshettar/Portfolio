@@ -25,13 +25,13 @@ A further optimization could be possible using Radix trees.(Compressed Trie)
 ### Comaparision of performance of trie and radix tree
 
 <p align="center">
-  <img src="../images/radix_tree.png" alt="Merkle Tree Image" style="width: 400px;">
+  <img src="../images/trie_plot.png" alt="Merkle Tree Image" style="width: 400px;">
   <br>
   <em>Figure 1: Trie Plot [<a href="https://blog.apnic.net/2021/06/04/storing-and-retrieving-ip-prefixes-efficiently/">4</a>]</em>
 </p>
 
 <p align="center">
-  <img src="../images/radix_tree.png" alt="Merkle Tree Image" style="width: 400px;">
+  <img src="../images/radix_tree_plot.png" alt="Merkle Tree Image" style="width: 400px;">
   <br>
   <em>Figure 1: Radix Tree plot [<a href="https://blog.apnic.net/2021/06/04/storing-and-retrieving-ip-prefixes-efficiently/">4</a>]</em>
 </p>
