@@ -3,8 +3,8 @@
 For effeciently verifying large sets of data merkle tree also known as hash trees can be used.Merkle trees, highly valued for its capacity to detect changes in data makes it a fundamental component in technologies that demand strong data verification mechanisms.
 
 <figure>
-  <img src="../images/merkle.webp" alt="Alt Text" style="width: 300px;">
-  <figcaption>Merkle Trees ![[2]](https://blockchain-academy.hs-mittweida.de/merkle-tree/)</figcaption>
+  <img src="../images/merkle.webp" alt="Merkle Tree Image" style="width: 500px;">
+  <figcaption>Merkle Trees <a href="https://blockchain-academy.hs-mittweida.de/merkle-tree/">[2]</a></figcaption>
 </figure>
 
 [click for implementation](../codes/merkle_tree.md)
