@@ -1,3 +1,20 @@
+### Fenwick Tree
+
+To efficiently compute prefix sums and perform point updates in an array.
+
+#### Complexity Analysis
+
+| Aspect           | Complexity |
+| ---------------- | ---------- |
+| Construction     | O(N log N) |
+| Point Update     | O(log N)   |
+| Prefix Query     | O(log N)   |
+| Range Query      | O(log N)   |
+| Space Complexity | O(N)       |
+
+#### Code
+
+```cpp
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -55,3 +72,4 @@ int main()
 
     return 0;
 }
+```

@@ -1,3 +1,15 @@
+### Trie
+
+Trie, also known as prefix tree is a tree based structure that helps in fast search insertion and deletion operations.
+
+#### Complexity Analysis
+
+| Operation | Time Complexity | Auxiliary Space |
+| --------- | --------------- | --------------- |
+| Insertion | O(n)            | O(n\*m)         |
+| Searching | O(n)            | O(1)            |
+
+```cpp
 #include <iostream>
 #include <unordered_map>
 using namespace std;
@@ -64,3 +76,4 @@ int main()
 
     return 0;
 }
+```

@@ -4,6 +4,7 @@
 
 - To compress data before encryption improving bandwidth and security.
 - Used in log file compression to reduce storage requirements without losing any information, facilitating easier analysis of security incidents.
+
   [click for code and complexity analysis](../codes/Huffmann_coding.md)
 
 ### Run Length Encoding:

@@ -1,4 +1,4 @@
-<!-- # Portfolio
+# Portfolio
 
 <dl>
 <dt>Course Name</dt>
@@ -33,6 +33,10 @@ Cybersecurity is the practice of protecting computer systems, networks, and data
 ### 1. Data Integrity Verification
 
 Data integrity verification is important for protecting data from unauthorized access,corruption and other cyber threats.The verification guarantees data accuracy making organizations to confidently rely on information.It helps in ensurin the data remains consistent and unchanged by unauthorized entities throughout its lifetime.
+
+### Challenges:
+
+Latency
 
 ### Market Benifits:
 
@@ -86,6 +90,14 @@ Bandwidth optimization,Cost Reduction,Improved Performance,Enhanced security.
 [Explore the details](Explanations/Data_compression.md)
 
 ### 5.Network Traffic Analysis
+
+#### Challenges:
+
+#### Market Benifits:
+
+- Enhanced threat detection
+
+[Explore the details](Explanations/network_traffic_analysis.md)
 
 ### 6.Intrusion Detection System
 
@@ -179,4 +191,4 @@ For any secure network it is critical to ensure keys are generated and stored se
 
 Used in threat intelligence systems for tracking unique items such as ip address or domain names.This helps faster response and mitigation by quick identification of new or previously unseen threats.
 
-### 12.Maintaining Chronologogical -->
+### 12.Maintaining Chronologogical
