@@ -1,18 +1,18 @@
 <ol>
-<li>Role based Access Control</li>
-<li>Hirearchial Access Control</li>
+<li>[Role based Access Control](#role-based-access-controlrbac)</li>
+<li>[Hirearchial Access Control](#hirearchial-access-control)</li>
 </ol>
 
 ### Role Based Access Control(RBAC):
 
 In RBAC permissions are associated with roles and roles are assigned to users.
 
-<b>Data Structures used:</b>
+#### Data Structures used:
 
 - Graphs
 - Hash Tables
 
-### Hirearchial Access Control
+#### Hirearchial Access Control
 
 Subset of RBAC with roles organized in hirearchy adding an extra layer of complexity.
 
