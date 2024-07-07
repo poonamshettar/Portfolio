@@ -30,6 +30,8 @@ Cybersecurity is the practice of protecting computer systems, networks, and data
 
 ---
 
+### ❓Why Cyber-Security?
+
 ### Use Cases
 
 ### 1.✅ Data Integrity Verification
@@ -155,7 +157,7 @@ Network security becomes a major part of cyber security and to build these secur
 
 ---
 
-### 7.🎮 Access Control
+### 8.🎮 Access Control
 
 It regulates who can view what resources in a computing environment.It helps in preventing unauthorized access to data and resources thereby protecting sensitive information.
 
@@ -172,7 +174,7 @@ It regulates who can view what resources in a computing environment.It helps in 
 
 ---
 
-### 8.🔢 Secure Random Number Generation
+### 9.🔢 Secure Random Number Generation
 
 Secure random number generation is important in context of cybersecurity to ensure integrity and confidentiality of sensitive systems and data.It involves producing unpredictable and unbiased numbers.It is essential in cryptographic protocolsa and secure communications.
 
@@ -189,7 +191,7 @@ Secure random number generation is important in context of cybersecurity to ensu
 
 ---
 
-### 9.🦠 Malware Detection
+### 10.🦠 Malware Detection
 
 The aim of malware detection is to identify and mitigate malicious software that can steal data and disrupt operations.It is one of the critical aspect of cybersecurity.
 
@@ -208,7 +210,7 @@ The aim of malware detection is to identify and mitigate malicious software that
 
 ---
 
-### 10.🗝️Encrypttion Key Management
+### 11.🗝️Encrypttion Key Management
 
 For any secure network it is critical to ensure keys are generated and stored securely throughout their lifetime.Effective key managment helps in preventing unauthorized access thereby mainatining integrity and confidentiality of data.
 
@@ -225,7 +227,7 @@ For any secure network it is critical to ensure keys are generated and stored se
 
 ---
 
-### 11.🏃‍♂️Unique Element Tracking
+### 12.🏃‍♂️Unique Element Tracking
 
 Used in threat intelligence systems for tracking unique items such as ip address or domain names.This helps faster response and mitigation by quick identification of new or previously unseen threats.
 
@@ -241,7 +243,9 @@ Used in threat intelligence systems for tracking unique items such as ip address
 
 [Explore the details](Explanations/Unique_element_tracking.md)
 
-### 12.🪜 Chronological event tracking in Audit logs
+---
+
+### 13.🪜 Chronological event tracking in Audit logs
 
 Audit-logs serve as critical information for mainatining chronological sequence of security related events.Maintaining a detailed recored of events can help in monitoring anamolies,detecting unauthorized activities to ensure integrity and security.
 
@@ -257,3 +261,29 @@ Audit-logs serve as critical information for mainatining chronological sequence 
 [Explore the details](Explanations/Chronological.md)
 
 ---
+
+### 14.🪛Encryption and Decryption
+
+Encryption plays a crucial role in cybersecurity by converting plain text to cipher text before transmission of message over a transmission medium.It ensures that information is accessible only to authorized users.It is critical for maintaining data integrity.
+
+#### Challenges
+
+- Key Managment.
+- Can lead to performance overhead.
+
+#### Market Benifits
+
+- Data security.
+- Cloud security.
+- Mobile and IOT security.
+
+[Explore the details](Explanations/encryption.md)
+
+### 15.#️⃣ Hashing
+
+### Refrences
+
+[1] M. Saračević, S. Adamović, and E. Biševac, "Application of Catalan Numbers and the Lattice Path Combinatorial Problem in Cryptography," _Acta Polytechnica Hungarica_, vol. 15, no. 7, pp. 91-106, 2018.
+[2] lockchain Academy Mittweida, "Merkle Tree," accessed July 8, 2024. [Online]. Available: https://blockchain-academy.hs-mittweida.de/merkle-tree/.
+[3] T. Talpey, "Storing and retrieving IP prefixes efficiently," APNIC Blog, June 4, 2021. [Online]. Available: https://blog.apnic.net/2021/06/04/storing-and-retrieving-ip-prefixes-efficiently/.
+[4] "The trie lookup structure associated with the routing table given in Table 7," ResearchGate, [Online]. Available: https://www.researchgate.net/figure/The-trie-lookup-structure-associated-with-the-routing-table-given-in-Table-7_fig3_220770958.
