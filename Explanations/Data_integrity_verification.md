@@ -4,7 +4,7 @@ For effeciently verifying large sets of data merkle tree also known as hash tree
 
 <figure>
   <img src="../images/merkle.webp" alt="Alt Text" style="width: 300px;">
-  <figcaption>Merkle Trees [[2]](https://blockchain-academy.hs-mittweida.de/merkle-tree/)</figcaption>
+  <figcaption>Merkle Trees ![[2]](https://blockchain-academy.hs-mittweida.de/merkle-tree/)</figcaption>
 </figure>
 
 [click for implementation](../codes/merkle_tree.md)
