@@ -24,20 +24,14 @@ A further optimization could be possible using Radix trees.(Compressed Trie)
 
 ### Comaparision of performance of trie and radix tree
 
-<figure>
-  <img src="../images/trie_plot.png" alt="Trie Plot" style="width: 350px; float: left; margin-right: 20px;">
-  <figcaption>
-    <p align="center">
-      <em>Figure 1: Trie Plot</em> [<a href="https://blog.apnic.net/2021/06/04/storing-and-retrieving-ip-prefixes-efficiently/">4</a>]
-    </p>
-  </figcaption>
-</figure>
+<p align="center">
+  <img src="../images/radix_tree.png" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Figure 1: Trie Plot [<a href="https://blog.apnic.net/2021/06/04/storing-and-retrieving-ip-prefixes-efficiently/">4</a>]</em>
+</p>
 
-<figure>
-  <img src="../images/radix_tree_plot.png" alt="Radix Tree Plot" style="width: 350px; float: left;">
-  <figcaption>
-    <p align="center">
-      <em>Figure 2: Radix Tree Plot</em> [<a href="https://blog.apnic.net/2021/06/04/storing-and-retrieving-ip-prefixes-efficiently/">4</a>]
-    </p>
-  </figcaption>
-</figure>
+<p align="center">
+  <img src="../images/radix_tree.png" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Figure 1: Radix Tree plot [<a href="https://blog.apnic.net/2021/06/04/storing-and-retrieving-ip-prefixes-efficiently/">4</a>]</em>
+</p>
