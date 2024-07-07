@@ -9,7 +9,9 @@
 <dt>Course Instructor</dt>
 <dd>Prakash Hegade</dd>
 </dl>
+
 ---
+
 <dl>
 <dt>About me</dt>
 <dt>Name</dt>
