@@ -1,4 +1,4 @@
-<!-- # Portfolio
+# Portfolio
 
 <dl>
 <dt>Course Name</dt>
@@ -174,6 +174,8 @@ The aim of malware detection is to identify and mitigate malicious software that
 - Customer Trust.
 - Can minimize system downtime.
 
+[Explore the details](Explanations/Malware_detection.md)
+
 ### 10.Encrypttion Key Management
 
 For any secure network it is critical to ensure keys are generated and stored securely throughout their lifetime.Effective key managment helps in preventing unauthorized access thereby mainatining integrity and confidentiality of data.
@@ -185,10 +187,37 @@ For any secure network it is critical to ensure keys are generated and stored se
 
 #### Market Benifits
 
-- Protection of sensitive data from unauthorized access
+- Protection of sensitive data from unauthorized access.
+
+[Explore the details](Explanations/encryption_key_mgmt.md)
 
 ### 11.Unique Element Tracking
 
 Used in threat intelligence systems for tracking unique items such as ip address or domain names.This helps faster response and mitigation by quick identification of new or previously unseen threats.
 
-### 12.Maintaining Chronologogical -->
+#### Challenges
+
+- Handling large data.
+- Integration with exxisting systems.
+
+#### Market Benifits
+
+- Enhanced Threat detection.
+- Faster Response and mitigation of threats.
+
+[Explore the details](Explanations/Unique_element_tracking.md)
+
+### 12.Chronological event tracking in Audit logs
+
+Audit-logs serve as critical information for mainatining chronological sequence of security related events.Maintaining a detailed recored of events can help in monitoring anamolies,detecting unauthorized activities to ensure integrity and security.
+
+#### Challenges
+
+- Managing and storing large volumes of audit log data efficiently.
+
+#### Market Benifits
+
+- Early detection of anamolies.
+- Risk mitigation.
+
+[Explore the details](Explanations/Chronological.md)

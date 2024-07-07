@@ -1,3 +1,17 @@
+### DFS and BFS
+
+Depth first search, breadth first search.
+
+#### Complexity Analysis
+
+| **Algorithm** | **Time Complexity** | **Space Complexity** |
+| ------------- | ------------------- | -------------------- |
+| DFS           | O(V \* E)           | O(V)                 |
+| BFS           | O(V + E)            | O(V)                 |
+
+#### Code
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
 struct node
@@ -82,3 +96,4 @@ int main()
     dfs(adjlist, visited, 0);
     return 0;
 }
+```
