@@ -1,4 +1,4 @@
-# Portfolio
+# 🔐Cyber Armor - Algorithmic Secirity🔐
 
 <dl>
 <dt>Course Overview</dt>
@@ -9,6 +9,7 @@
 <dt>Course Instructor</dt>
 <dd>Prakash Hegade</dd>
 </dl>
+---
 <dl>
 <dt>About me</dt>
 <dt>Name</dt>
@@ -19,7 +20,7 @@
 
 ---
 
-# Cyber Security: Leveraging Data Structures and Algorithms
+# 🔐Cyber Security: Leveraging Data Structures and Algorithms 🔐
 
 Welcome to my portfolio! Within this repository, you'll find my ideas and exploarations towards cyber-security utilizing data structures and algorithms.
 
