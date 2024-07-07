@@ -24,7 +24,7 @@ In RBAC permissions are associated with roles and roles are assigned to users.
   | DFS           | O(V \* E)           | O(V)                 |
   | BFS           | O(V + E)            | O(V)                 |
 
-- Djikstra's Algorithm: Shortest path in permission hirearchies for least privilege access.
+- <b>Djikstra's Algorithm</b>: Shortest path in permission hirearchies for least privilege access.
 
   [click for code of Djikstra's](code/djikstra.cpp)
 
@@ -35,7 +35,7 @@ In RBAC permissions are associated with roles and roles are assigned to users.
   | Time Complexity  | O((V + E) log V) |
   | Space Complexity | O(V)             |
 
-- Topological Sort:To resolve conflicts in permissions.
+- <b>Topological Sort</b>:To resolve conflicts in permissions.
 
   [click for code of Topological Sort](code/topo.cpp)
 
