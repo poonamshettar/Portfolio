@@ -11,7 +11,6 @@ A probabilistic data-structure to check if an element is a member of a particula
 #define ll long long
 using namespace std;
 
-// hash 1
 int h1(string s, int arrSize)
 {
 	ll int hash = 0;
@@ -23,7 +22,7 @@ int h1(string s, int arrSize)
 	return hash;
 }
 
-// hash 2
+
 int h2(string s, int arrSize)
 {
 	ll int hash = 1;
@@ -35,7 +34,7 @@ int h2(string s, int arrSize)
 	return hash % arrSize;
 }
 
-// hash 3
+
 int h3(string s, int arrSize)
 {
 	ll int hash = 7;
@@ -46,7 +45,6 @@ int h3(string s, int arrSize)
 	return hash % arrSize;
 }
 
-// hash 4
 int h4(string s, int arrSize)
 {
 	ll int hash = 3;
@@ -59,7 +57,6 @@ int h4(string s, int arrSize)
 }
 
 
-// lookup operation
 bool lookup(bool* bitarray, int arrSize, string s)
 {
 	int a = h1(s, arrSize);
@@ -74,10 +71,9 @@ bool lookup(bool* bitarray, int arrSize, string s)
 		return false;
 }
 
-// insert operation
+
 void insert(bool* bitarray, int arrSize, string s)
 {
-	// check if the element in already present or not
 	if (lookup(bitarray, arrSize, s))
 		cout << s << " is Probably already present" << endl;
 	else
@@ -96,7 +92,6 @@ void insert(bool* bitarray, int arrSize, string s)
 	}
 }
 
-// Driver Code
 int main()
 {
 	bool bitarray[100] = { false };
