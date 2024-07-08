@@ -11,6 +11,7 @@
 ### About Me
 
 - **Name:** Poonam M Shettar
+- **USN:**01FE21BEC280
 - **University:** KLE Technological University, Hubballi
 
 ---
@@ -62,7 +63,7 @@ In today's digital age, cybersecurity has become critically important as technol
 Data integrity verification is important for protecting data from unauthorized access,corruption and other cyber threats.The verification guarantees data accuracy making organizations to confidently rely on information.It helps in ensurin the data remains consistent and unchanged by unauthorized entities throughout its lifetime.
 
 <p align="center">
-  <img src="images/data_integrity.gif" alt="Merkle Tree Image" style="width: 400px;height:350px">
+  <img src="images/data_integrity.gif" alt="Merkle Tree Image" style="width: 400px;height:250px">
   <br>
   <em>Data Integrity Verification [<a href="https://www.reddit.com/r/ccna/comments/p4nbqu/about_hash_i_want_to_explain_and_see_my/">13</a>]</em>
 </p>
