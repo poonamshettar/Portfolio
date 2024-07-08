@@ -10,10 +10,12 @@
 
 #### Steps:
 
+```latex
 1. Select two prime numbers \( p \) and \( q \).
 2. Compute \( n = p \times q \) and \( \phi(n) = (p-1) \times (q-1) \).
 3. Choose \( e \) such that \( \text{gcd}(e, \phi(n)) = 1 \).
 4. Determine \( d \) such that \( (e \times d) \mod \phi(n) = 1 \).
+```
 
 [click for code](../codes/fermat.md)
 

@@ -5,7 +5,7 @@ Passwords are hashed before storing them in databases to enhance security.
 <p align="center">
   <img src="../images/hash-function.jpg" alt="Merkle Tree Image" style="width: 400px;">
   <br>
-  <em>Figure 1: Hashing [<a href="https://www.geeksforgeeks.org/sha-256-and-sha-3/">6</a>]</em>
+  <em>Hashing [<a href="https://www.geeksforgeeks.org/sha-256-and-sha-3/">6</a>]</em>
 </p>
 
 ### SHA-256 for password hashing
