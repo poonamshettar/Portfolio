@@ -1,4 +1,4 @@
-<!-- # 🔐Cyber Armor - Algorithmic Security🔐
+# 🔐Cyber Armor - Algorithmic Security🔐
 
 ---
 
@@ -19,10 +19,20 @@
 
 Welcome to my portfolio! Within this repository, you'll find my ideas and exploarations towards cyber-security utilizing data structures and algorithms.
 
+<p align="center">
+  <img src="../images/rbac.png" alt="Merkle Tree Image" style="width: 500px;">
+  <br>
+  <em>Cyber-Security [<a href="https://www.esds.co.in/blog/top-5-cybersecurity-threats-to-dominate-2020/">17</a>]</em>
+</p>
+
 ## Contents
 
 1. [Introduction](#introduction)
-2. [Use Cases](#use-cases)
+2. [Why cyber-security](#why-cyber-security)
+3. [Objectives](#objectives)
+4. [Use Cases](#use-cases)
+
+---
 
 ### Introduction
 
@@ -34,11 +44,15 @@ Cybersecurity is the practice of protecting computer systems, networks, and data
 
 In today's digital age, cybersecurity has become critically important as technology continues to advance. It's essential to ensure the security of digital systems and data against a growing array of cyber threats like malware and data breaches.
 
+---
+
 ### Objectives
 
 - Identify use cases governing cyber-security.
 - Identify key algorithms, data structures, or system design techniques currently in use or with potential applications in enhancing Cyber-security.
 - Create a resource to understand the intersection of data structures, algorithms, and real-world applications in cybersecurity.
+
+---
 
 ### Use Cases
 
@@ -147,6 +161,8 @@ It helps in monitoring network or system activities for malicious activities.It 
 - Early detection of cyber threats.
 
 [Explore the details](Explanations/Intrusion_detection.md)
+
+---
 
 ### 7.🛠️ Network Security and optimization
 
@@ -287,7 +303,41 @@ Encryption plays a crucial role in cybersecurity by converting plain text to cip
 
 [Explore the details](Explanations/encryption.md)
 
-### 15.#️⃣ Hashing
+---
+
+### 15.#️⃣ Password storage
+
+Password storage is an important part of cybersecurity.As,passwords contain sensitive information it is necessary to store them securely preventing unauthorized access.
+
+#### Challenges
+
+- Password managment and security
+
+#### Market benifits
+
+- User security.
+- Prevention of hacking
+
+[Explore the details](Explanations/Password_storage.md)
+
+---
+
+### 16.⚡Password Cracking Prevention
+
+Passwords must be securely stored making it difficult to crack password by unauthorized users.It is important to add additional layers to hashed passwords to protect and support onlu authorized access.
+
+#### Challenges
+
+- Secured password hashing
+
+#### Market Benifits
+
+- Enhanced security
+- Improved performance
+
+[Explore the details](Explanations/protected.md)
+
+---
 
 ### Refrences
 
@@ -301,4 +351,26 @@ Encryption plays a crucial role in cybersecurity by converting plain text to cip
 
 [5] "The trie lookup structure associated with the routing table given in Table 7," ResearchGate, [Online]. Available: https://www.researchgate.net/figure/The-trie-lookup-structure-associated-with-the-routing-table-given-in-Table-7_fig3_220770958.
 
-[6] -->
+[6] GeeksforGeeks, “SHA-256 and SHA-3,” GeeksforGeeks, [Online]. Available: https://www.geeksforgeeks.org/sha-256-and-sha-3/. [Accessed: Jul. 8, 2024].
+
+[7] K. Kibonga, “sha256-cpp,” GitHub repository, 2024. [Online]. Available: https://github.com/kibonga/sha256-cpp.
+
+[8] GeeksforGeeks, “What is Salted Password Hashing?,” GeeksforGeeks, [Online]. Available: https://www.geeksforgeeks.org/what-is-salted-password-hashing/.
+
+[9] L. Ahmad, “Auth,” advanced-js-reading-notes, 2024. [Online]. Available: https://leenahmad.github.io/advanced-js-reading-notes/24-Auth.html. [Accessed: Jul. 8, 2024].
+
+[10] ResearchGate, 2024. [Online]. Available: https://www.researchgate.net/figure/The-structure-of-hierarchical-access-control-3_fig1_369772881.
+
+[11] J. Byers, “Compression Animation,” Dribbble, 2024. [Online]. Available: https://dribbble.com/shots/9723645-Compression-Animation. [Accessed: Jul. 8, 2024].
+
+[12] “Huffman Coding in Synchronized Multimedia Integration Language,” WriteWork, 2024. [Online]. Available: https://www.writework.com/essay/huffman-coding-sychronized-multimedia-integration-language. [Accessed: Jul. 8, 2024].
+
+[13] Reddit user, “About Hash I want to explain and see my...,” Reddit, 2024. [Online]. Available: https://www.reddit.com/r/ccna/comments/p4nbqu/about_hash_i_want_to_explain_and_see_my/. [Accessed: Jul. 8, 2024].
+
+[14] Fowler Creative™, “Tech Animation 7- 2 Key Encryption V1,” Dribbble, Sep. 28, 2017. [Online]. Available: https://dribbble.com/shots/3839034-Tech-Animation-7-2-Key-Encryption-V1. [Accessed: Jul. 8, 2024].
+
+[15] Batoi, "Introduction to Data Structures: Tree," 2021. [Online]. Available: https://hub.batoi.com/dev21/introduction-data-structures-tree-60660d6769715. [Accessed: Jul. 8, 2024].
+
+[16] Host.co.in, "Encryption.gif," 2019. [Online]. Available: https://www.host.co.in/blog/wp-content/uploads/2019/04/Encryption.gif. [Accessed: Jul. 8, 2024].
+
+[17] ESDS, "Top 5 Cybersecurity Threats to Dominate 2020," ESDS, Dec. 24, 2019. [Online]. Available: https://www.esds.co.in/blog/top-5-cybersecurity-threats-to-dominate-2020/. [Accessed: Jul. 8, 2024].

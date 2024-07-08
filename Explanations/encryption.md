@@ -1,5 +1,11 @@
 ### Encryption
 
+<p align="center">
+  <img src="../images/encryption_.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Encryption [<a href="https://www.host.co.in/blog/wp-content/uploads/2019/04/Encryption.gif">16</a>]</em>
+</p>
+
 #### AES (Advanced Encryption Standard)
 
 - It is widely adopted due to its efficient performance. It uses symmetric encryption, ensuring that both encryption and decryption are fast and secure.
