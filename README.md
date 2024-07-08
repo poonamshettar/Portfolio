@@ -326,7 +326,7 @@ Used in threat intelligence systems for tracking unique items such as ip address
 <p align="center">
   <img src="images/threat.gif" alt="Merkle Tree Image" style="width: 400px;">
   <br>
-  <em>Compression [<a href="https://www.bdigital.co.nz/antivirus/">25</a>]</em>
+  <em>Threat Intelligence [<a href="https://www.bdigital.co.nz/antivirus/">25</a>]</em>
 </p>
 
 #### Challenges
