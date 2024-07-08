@@ -8,7 +8,7 @@
 <p align="center">
   <img src="../images/huffmann_coding.gif" alt="Merkle Tree Image" style="width: 400px;">
   <br>
-  <em>RBAC [<a href="https://www.writework.com/essay/huffman-coding-sychronized-multimedia-integration-language">12</a>]</em>
+  <em>Huffmann-coding[<a href="https://www.writework.com/essay/huffman-coding-sychronized-multimedia-integration-language">12</a>]</em>
 </p>
 
 [click for code and complexity analysis](../codes/Huffmann_coding.md)

@@ -1,11 +1,5 @@
 ### Encryption Key Managment
 
-<p align="center">
-  <img src="../images/encryption.gif" alt="Merkle Tree Image" style="width: 400px;">
-  <br>
-  <em>Encryption key [<a href="https://dribbble.com/shots/3839034-Tech-Animation-7-2-Key-Encryption-V1">14</a>]</em>
-</p>
-
 #### Binary Search Trees
 
 <p align="center">

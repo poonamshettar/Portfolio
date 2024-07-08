@@ -255,7 +255,7 @@ Secure random number generation is important in context of cybersecurity to ensu
 <p align="center">
   <img src="images/secure_rand.gif" alt="Merkle Tree Image" style="width: 400px;height:">
   <br>
-  <em>Compression [<a href="https://www.tpsearchtool.com/images/download-number-gif-generator-png-gif-base">23</a>]</em>
+  <em>Random Number [<a href="https://www.tpsearchtool.com/images/download-number-gif-generator-png-gif-base">23</a>]</em>
 </p>
 
 #### Challenges:
@@ -398,7 +398,7 @@ Password storage is an important part of cybersecurity.As,passwords contain sens
 <p align="center">
   <img src="images/secure_pwd.gif" alt="Merkle Tree Image" style="width: 400px;">
   <br>
-  <em>Passwor storage [<a href="https://www.pinterest.com.au/pin/628674429212895416/">27</a>]</em>
+  <em>Password storage [<a href="https://www.pinterest.com.au/pin/628674429212895416/">27</a>]</em>
 </p>
 
 #### Challenges
@@ -486,3 +486,5 @@ Passwords must be securely stored making it difficult to crack password by unaut
 [26] Pinterest, "Animation for Analytics Monitoring," Pinterest, 2024. [Online]. Available: https://www.pinterest.com/pin/animation-for-analytics-monitoring--9499849193998213/. [Accessed: Jul. 8, 2024].
 
 [27] Pinterest, "Home Automation - Pinterest," Pinterest, 2024. [Online]. Available: https://www.pinterest.com.au/pin/628674429212895416/. [Accessed: Jul. 8, 2024].
+
+[28] Saračević, M., Adamović, S., & Biševac, E. (2018). Application of Catalan numbers and the lattice path combinatorial problem in cryptography. Acta Polytechnica Hungarica, 15(7), 91-110.

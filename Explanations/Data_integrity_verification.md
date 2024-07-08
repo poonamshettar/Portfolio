@@ -1,11 +1,5 @@
 ### Data Integrity Verification
 
-<p align="center">
-  <img src="../images/data_integrity.gif" alt="Merkle Tree Image" style="width: 400px;">
-  <br>
-  <em>Data Integrity Verification [<a href="https://www.reddit.com/r/ccna/comments/p4nbqu/about_hash_i_want_to_explain_and_see_my/">13</a>]</em>
-</p>
-
 #### Merkle trees
 
 For effeciently verifying large sets of data merkle tree also known as hash trees can be used.Merkle trees, highly valued for its capacity to detect changes in data makes it a fundamental component in technologies that demand strong data verification mechanisms.

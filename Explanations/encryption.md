@@ -1,5 +1,16 @@
 ### Encryption
 
+#### Catalan numbers and lattice path combinatorial problem
+
+- The Catalan-number-based keys can be used to encrypt data using the Lattice Path encryption algorithm.[1]
+- This algorithm leverages the binary representation of the key to guide a path through a discrete lattice, with the 1s and 0s determining the movement.
+
+<p align="center">
+  <img src="../images/catalan.png" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Encryption using catalan numbers and lattice path combinatorial problem[1]</em>
+</p>
+
 #### AES (Advanced Encryption Standard)
 
 - It is widely adopted due to its efficient performance. It uses symmetric encryption, ensuring that both encryption and decryption are fast and secure.
@@ -14,14 +25,3 @@
 - Based on the princple that the encryptrd text can only be decrypted by the one with private key.
 
 [click for code](../codes/RSA.md)
-
-#### Catalan numbers and lattice path combinatorial problem
-
-- The Catalan-number-based keys can be used to encrypt data using the Lattice Path encryption algorithm.[1]
-- This algorithm leverages the binary representation of the key to guide a path through a discrete lattice, with the 1s and 0s determining the movement.
-
-<p align="center">
-  <img src="../images/catalan.png" alt="Merkle Tree Image" style="width: 400px;">
-  <br>
-  <em>Encryption using catalan numbers and lattice path combinatorial problem[1]</em>
-</p>
