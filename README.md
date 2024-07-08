@@ -324,7 +324,7 @@ For any secure network it is critical to ensure keys are generated and stored se
 Used in threat intelligence systems for tracking unique items such as ip address or domain names.This helps faster response and mitigation by quick identification of new or previously unseen threats.
 
 <p align="center">
-  <img src="images/threat_intell.gif.crdownload" alt="Merkle Tree Image" style="width: 400px;">
+  <img src="images/threat.gif" alt="Merkle Tree Image" style="width: 400px;">
   <br>
   <em>Compression [<a href="https://www.bdigital.co.nz/antivirus/">25</a>]</em>
 </p>
