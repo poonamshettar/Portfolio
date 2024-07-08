@@ -1,12 +1,9 @@
 #### Data compression
 
-<p align="center">
-  <img src="../images/image_processing20200123-25438-djxaik.gif" alt="Merkle Tree Image" style="width: 400px;">
-  <br>
-  <em>Compression [<a href="https://leenahmad.github.io/advanced-js-reading-notes/24-Auth.html">11</a>]</em>
-</p>
-
 ### Huffmann coding:
+
+- To compress data before encryption improving bandwidth and security.
+- Used in log file compression to reduce storage requirements without losing any information, facilitating easier analysis of security incidents.
 
 <p align="center">
   <img src="../images/huffmann_coding.gif" alt="Merkle Tree Image" style="width: 400px;">
@@ -14,10 +11,7 @@
   <em>RBAC [<a href="https://www.writework.com/essay/huffman-coding-sychronized-multimedia-integration-language">12</a>]</em>
 </p>
 
-- To compress data before encryption improving bandwidth and security.
-- Used in log file compression to reduce storage requirements without losing any information, facilitating easier analysis of security incidents.
-
-  [click for code and complexity analysis](../codes/Huffmann_coding.md)
+[click for code and complexity analysis](../codes/Huffmann_coding.md)
 
 ### Run Length Encoding:
 

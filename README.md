@@ -27,10 +27,11 @@ Welcome to my portfolio! Within this repository, you'll find my ideas and exploa
 
 ## Contents
 
-1. [Introduction](#introduction)
-2. [Why cyber-security](#why-cyber-security)
-3. [Objectives](#objectives)
-4. [Use Cases](#use-cases)
+1. [📖Introduction](#introduction)
+2. [❓Why cyber-security](#why-cyber-security)
+3. [🎯Objectives](#objectives)
+4. [💼Use Cases](#use-cases)
+5. [📜References](#refrences)
 
 ---
 
@@ -60,6 +61,12 @@ In today's digital age, cybersecurity has become critically important as technol
 
 Data integrity verification is important for protecting data from unauthorized access,corruption and other cyber threats.The verification guarantees data accuracy making organizations to confidently rely on information.It helps in ensurin the data remains consistent and unchanged by unauthorized entities throughout its lifetime.
 
+<p align="center">
+  <img src="images/data_integrity.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Data Integrity Verification [<a href="https://www.reddit.com/r/ccna/comments/p4nbqu/about_hash_i_want_to_explain_and_see_my/">13</a>]</em>
+</p>
+
 <h4 style="color: red;">Challenges:</h4>
 
 - Latency - Degradation of network performance.
@@ -79,6 +86,12 @@ Data integrity verification is important for protecting data from unauthorized a
 
 IP routing is crucial for cyber security by helping in correct forwarding of data packets across networks.It helps in traffic Managment,IP-spoofing and mitigating DDos attacks. Also,it enables network segmentation thereby reducing malware spread.
 
+<p align="center">
+  <img src="images/routing.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>IP-routing[<a href="https://medium.com/generative-design/routing-with-graphs-5fb564b02a74">18</a>]</em>
+</p>
+
 #### Challenges:
 
 - Scalability- increasing network elemnts.
@@ -96,6 +109,12 @@ IP routing is crucial for cyber security by helping in correct forwarding of dat
 ### 3.🔑 Key Generation for Encryption and Decryption
 
 The strength of a network basically depends on the difficulty for the hacker to obtain the plain text from the cipher text.The strength of this cipher text often depends on the keys used.For any safe network it is critical to have a stronger key making it impossible for the hacker to hack.
+
+<p align="center">
+  <img src="images/encryption_key.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Key [<a href="https://jtglez.github.io/CryptoCypher-Sprint01/index.html">19</a>]</em>
+</p>
 
 #### Challenges:
 
@@ -116,6 +135,12 @@ The primary goal of compression is in maintaining the integrity of the data/file
 - Compression before Encryption- An extra layer of security as encrypted data is not directly decipherable by malicious entities.
 - Storage Optimization- reducing the high cost investment on disk space for cybersecurity companies which have vast amount of database.
 
+<p align="center">
+  <img src="images/image_processing20200123-25438-djxaik.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Compression [<a href="https://leenahmad.github.io/advanced-js-reading-notes/24-Auth.html">11</a>]</em>
+</p>
+
 #### Challenges:
 
 - storage efficiency.
@@ -132,6 +157,12 @@ Bandwidth optimization,Cost Reduction,Improved Performance,Enhanced security.
 ### 5.🚦Network Traffic Analysis
 
 Analysis of network traffic is critical for cyber-secuirty.It involves monitoring and examining data flowing across a network to detect anomalies, threats, and potential security breaches
+
+<p align="center">
+  <img src="images/network traffic.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Network traffic analysis [<a href="https://giphy.com/gifs/network-jpZvG8KmaVtF6">20</a>]</em>
+</p>
 
 #### Challenges:
 
@@ -151,6 +182,12 @@ Analysis of network traffic is critical for cyber-secuirty.It involves monitorin
 
 It helps in monitoring network or system activities for malicious activities.It can be used to avoid risks and maintain network integrity.
 
+<p align="center">
+  <img src="images/intrusion.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Intrusion Detection </em>
+</p>
+
 #### Challenges:
 
 - Complexity of threats-sophiscated and evolving attack techniques.
@@ -167,6 +204,12 @@ It helps in monitoring network or system activities for malicious activities.It 
 ### 7.🛠️ Network Security and optimization
 
 Network security becomes a major part of cyber security and to build these secure networks it is important to optimize networks for iddentifying critical nodes, improving security measures to build secure networks.
+
+<p align="center">
+  <img src="images/ntwrk_security.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Network Security[<a href="https://www.hst.world/cyber-security/">21</a>]</em>
+</p>
 
 #### Challenges:
 
@@ -185,6 +228,12 @@ Network security becomes a major part of cyber security and to build these secur
 
 It regulates who can view what resources in a computing environment.It helps in preventing unauthorized access to data and resources thereby protecting sensitive information.
 
+<p align="center">
+  <img src="images/acces_ctrl.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Access Control [<a href="https://dribbble.com/shots/5474610-secure-transactions">22</a>]</em>
+</p>
+
 #### Challenges:
 
 - Complexity in managment- With larger data resources become difficult to handle.
@@ -202,6 +251,12 @@ It regulates who can view what resources in a computing environment.It helps in 
 
 Secure random number generation is important in context of cybersecurity to ensure integrity and confidentiality of sensitive systems and data.It involves producing unpredictable and unbiased numbers.It is essential in cryptographic protocolsa and secure communications.
 
+<p align="center">
+  <img src="images/secure_rand.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Compression [<a href="https://www.tpsearchtool.com/images/download-number-gif-generator-png-gif-base">23</a>]</em>
+</p>
+
 #### Challenges:
 
 - Cryptographic Strength-Ensuring resistance of generated numbers to predictive attacks.
@@ -218,6 +273,12 @@ Secure random number generation is important in context of cybersecurity to ensu
 ### 10.🦠 Malware Detection
 
 The aim of malware detection is to identify and mitigate malicious software that can steal data and disrupt operations.It is one of the critical aspect of cybersecurity.
+
+<p align="center">
+  <img src="images/malware.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Malware [<a href="https://dribbble.com/shots/2417386-The-Hacker">24</a>]</em>
+</p>
 
 #### Challenges
 
@@ -238,6 +299,12 @@ The aim of malware detection is to identify and mitigate malicious software that
 
 For any secure network it is critical to ensure keys are generated and stored securely throughout their lifetime.Effective key managment helps in preventing unauthorized access thereby mainatining integrity and confidentiality of data.
 
+<p align="center">
+  <img src="images/encryption.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Encryption key [<a href="https://dribbble.com/shots/3839034-Tech-Animation-7-2-Key-Encryption-V1">14</a>]</em>
+</p>
+
 #### Challenges
 
 - scalability- can be complex and resource-intensive.
@@ -254,6 +321,12 @@ For any secure network it is critical to ensure keys are generated and stored se
 ### 12.🏃‍♂️Unique Element Tracking
 
 Used in threat intelligence systems for tracking unique items such as ip address or domain names.This helps faster response and mitigation by quick identification of new or previously unseen threats.
+
+<p align="center">
+  <img src="images/threat_intell.gif.crdownload" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Compression [<a href="https://www.bdigital.co.nz/antivirus/">25</a>]</em>
+</p>
 
 #### Challenges
 
@@ -273,6 +346,12 @@ Used in threat intelligence systems for tracking unique items such as ip address
 
 Audit-logs serve as critical information for mainatining chronological sequence of security related events.Maintaining a detailed recored of events can help in monitoring anamolies,detecting unauthorized activities to ensure integrity and security.
 
+<p align="center">
+  <img src="images/c_monitoring.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em> Chronological event tracking [<a href="https://www.pinterest.com/pin/animation-for-analytics-monitoring--9499849193998213/">26</a>]</em>
+</p>
+
 #### Challenges
 
 - Managing and storing large volumes of audit log data efficiently.
@@ -289,6 +368,12 @@ Audit-logs serve as critical information for mainatining chronological sequence 
 ### 14.🪛Encryption and Decryption
 
 Encryption plays a crucial role in cybersecurity by converting plain text to cipher text before transmission of message over a transmission medium.It ensures that information is accessible only to authorized users.It is critical for maintaining data integrity.
+
+<p align="center">
+  <img src="images/encryption_.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Encryption [<a href="https://www.host.co.in/blog/wp-content/uploads/2019/04/Encryption.gif">16</a>]</em>
+</p>
 
 #### Challenges
 
@@ -308,6 +393,12 @@ Encryption plays a crucial role in cybersecurity by converting plain text to cip
 ### 15.#️⃣ Password storage
 
 Password storage is an important part of cybersecurity.As,passwords contain sensitive information it is necessary to store them securely preventing unauthorized access.
+
+<p align="center">
+  <img src="../images/encryption_.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Passwor storage [<a href="https://www.pinterest.com.au/pin/628674429212895416/">27</a>]</em>
+</p>
 
 #### Challenges
 
@@ -374,3 +465,23 @@ Passwords must be securely stored making it difficult to crack password by unaut
 [16] Host.co.in, "Encryption.gif," 2019. [Online]. Available: https://www.host.co.in/blog/wp-content/uploads/2019/04/Encryption.gif. [Accessed: Jul. 8, 2024].
 
 [17] ESDS, "Top 5 Cybersecurity Threats to Dominate 2020," ESDS, Dec. 24, 2019. [Online]. Available: https://www.esds.co.in/blog/top-5-cybersecurity-threats-to-dominate-2020/. [Accessed: Jul. 8, 2024].
+
+[18] B. O'Sullivan, "Routing with Graphs," Medium, Feb. 12, 2020. [Online]. Available: https://medium.com/generative-design/routing-with-graphs-5fb564b02a74. [Accessed: Jul. 8, 2024].
+
+[19] J. T. Gonzalez, "CryptoCypher - Sprint 01," GitHub Pages, 2021. [Online]. Available: https://jtglez.github.io/CryptoCypher-Sprint01/index.html. [Accessed: Jul. 8, 2024].
+
+[20] Giphy, "Network GIF," Giphy, Dec. 15, 2017. [Online]. Available: https://giphy.com/gifs/network-jpZvG8KmaVtF6. [Accessed: Jul. 8, 2024].
+
+[21] HST, "Cyber Security," HST World, 2024. [Online]. Available: https://www.hst.world/cyber-security/. [Accessed: Jul. 8, 2024].
+
+[22] E. Jones, "Secure Transactions," Dribbble, Dec. 14, 2018. [Online]. Available: https://dribbble.com/shots/5474610-secure-ransactions. [Accessed: Jul. 8, 2024].
+
+[23] TP Search Tool, "Download Number GIF Generator," TP Search Tool, 2024. [Online]. Available: https://www.tpsearchtool.com/images/download-number-gif-generator-png-gif-base. [Accessed: Jul. 8, 2024].
+
+[24] P. Jackson, "The Hacker," Dribbble, May 4, 2016. [Online]. Available: https://dribbble.com/shots/2417386-The-Hacker. [Accessed: Jul. 8, 2024].
+
+[25] B. Digital, "Antivirus," B Digital, 2024. [Online]. Available: https://www.bdigital.co.nz/antivirus/. [Accessed: Jul. 8, 2024].
+
+[26] Pinterest, "Animation for Analytics Monitoring," Pinterest, 2024. [Online]. Available: https://www.pinterest.com/pin/animation-for-analytics-monitoring--9499849193998213/. [Accessed: Jul. 8, 2024].
+
+[27] Pinterest, "Home Automation - Pinterest," Pinterest, 2024. [Online]. Available: https://www.pinterest.com.au/pin/628674429212895416/. [Accessed: Jul. 8, 2024].
