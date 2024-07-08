@@ -62,7 +62,7 @@ In today's digital age, cybersecurity has become critically important as technol
 Data integrity verification is important for protecting data from unauthorized access,corruption and other cyber threats.The verification guarantees data accuracy making organizations to confidently rely on information.It helps in ensurin the data remains consistent and unchanged by unauthorized entities throughout its lifetime.
 
 <p align="center">
-  <img src="images/data_integrity.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <img src="images/data_integrity.gif" alt="Merkle Tree Image" style="width: 400px;height:350px">
   <br>
   <em>Data Integrity Verification [<a href="https://www.reddit.com/r/ccna/comments/p4nbqu/about_hash_i_want_to_explain_and_see_my/">13</a>]</em>
 </p>
@@ -111,7 +111,7 @@ IP routing is crucial for cyber security by helping in correct forwarding of dat
 The strength of a network basically depends on the difficulty for the hacker to obtain the plain text from the cipher text.The strength of this cipher text often depends on the keys used.For any safe network it is critical to have a stronger key making it impossible for the hacker to hack.
 
 <p align="center">
-  <img src="images/encryption_key.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <img src="images/encryption_key.gif" alt="Merkle Tree Image" style="width: 400px;height:350px">
   <br>
   <em>Key [<a href="https://jtglez.github.io/CryptoCypher-Sprint01/index.html">19</a>]</em>
 </p>
@@ -252,7 +252,7 @@ It regulates who can view what resources in a computing environment.It helps in 
 Secure random number generation is important in context of cybersecurity to ensure integrity and confidentiality of sensitive systems and data.It involves producing unpredictable and unbiased numbers.It is essential in cryptographic protocolsa and secure communications.
 
 <p align="center">
-  <img src="images/secure_rand.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <img src="images/secure_rand.gif" alt="Merkle Tree Image" style="width: 400px;height:">
   <br>
   <em>Compression [<a href="https://www.tpsearchtool.com/images/download-number-gif-generator-png-gif-base">23</a>]</em>
 </p>
@@ -395,7 +395,7 @@ Encryption plays a crucial role in cybersecurity by converting plain text to cip
 Password storage is an important part of cybersecurity.As,passwords contain sensitive information it is necessary to store them securely preventing unauthorized access.
 
 <p align="center">
-  <img src="../images/encryption_.gif" alt="Merkle Tree Image" style="width: 400px;">
+  <img src="images/secure_pwd.gif" alt="Merkle Tree Image" style="width: 400px;">
   <br>
   <em>Passwor storage [<a href="https://www.pinterest.com.au/pin/628674429212895416/">27</a>]</em>
 </p>
