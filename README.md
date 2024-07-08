@@ -56,6 +56,10 @@ In today's digital age, cybersecurity has become critically important as technol
 
 ---
 
+### System Design
+
+[!sys design](images/system_design.png)
+
 ### Use Cases
 
 ### 1.✅ Data Integrity Verification
