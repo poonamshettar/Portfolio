@@ -31,12 +31,13 @@ Welcome to my portfolio! Within this repository, you'll find my ideas and exploa
 1. [📖Introduction](#introduction)
 2. [❓Why cyber-security](#why-cyber-security)
 3. [🎯Objectives](#objectives)
-4. [💼Use Cases](#use-cases)
-5. [📜References](#refrences)
+4. [🧑‍💼System design](#system-design)
+5. [💼Use Cases](#use-cases)
+6. [📜References](#refrences)
 
 ---
 
-### Introduction
+### 📖Introduction
 
 Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, attacks, and damage. It involves deploying measures like firewalls, encryption, and secure authentication to safeguard sensitive information. As digital threats continue to evolve, cybersecurity professionals constantly adapt and innovate to stay ahead. By detecting vulnerabilities, responding to incidents, and implementing preventive measures, they ensure the integrity, confidentiality, and availability of digital assets. In today's interconnected world, effective cybersecurity is essential for both individuals and organizations to mitigate risks and maintain trust in the digital ecosystem.
 
@@ -48,7 +49,7 @@ In today's digital age, cybersecurity has become critically important as technol
 
 ---
 
-### Objectives
+### 🎯Objectives
 
 - Identify use cases governing cyber-security.
 - Identify key algorithms, data structures, or system design techniques currently in use or with potential applications in enhancing Cyber-security.
@@ -56,15 +57,15 @@ In today's digital age, cybersecurity has become critically important as technol
 
 ---
 
-### System Design
+### 🧑‍💼System Design
 
 <p align="center">
-  <img src="images/system_design.png" alt="Merkle Tree Image" style="width: 600px; height:400px">
+  <img src="images/system_design.png" alt="Merkle Tree Image" style="width: 400px; height:300px">
   <br>
   <em>System Design </em>
 </p>
 
-### Use Cases
+### 💼Use Cases
 
 ### 1.✅ Data Integrity Verification
 
