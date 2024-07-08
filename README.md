@@ -58,7 +58,11 @@ In today's digital age, cybersecurity has become critically important as technol
 
 ### System Design
 
-[!sys design](images/system_design.png)
+<p align="center">
+  <img src="images/system_design.png" alt="Merkle Tree Image" style="width: 600px; height:400px">
+  <br>
+  <em>System Design </em>
+</p>
 
 ### Use Cases
 
@@ -97,12 +101,12 @@ IP routing is crucial for cyber security by helping in correct forwarding of dat
   <em>IP-routing[<a href="https://medium.com/generative-design/routing-with-graphs-5fb564b02a74">18</a>]</em>
 </p>
 
-#### Challenges:
+<h4 style="color: red;">Challenges:</h4>
 
 - Scalability- increasing network elemnts.
 - Security Vulunerabilities.
 
-#### Market Benifits:
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Enhanced security
 - Improved traffic managment.
@@ -121,11 +125,11 @@ The strength of a network basically depends on the difficulty for the hacker to 
   <em>Key [<a href="https://jtglez.github.io/CryptoCypher-Sprint01/index.html">19</a>]</em>
 </p>
 
-#### Challenges:
+<h4 style="color: red;">Challenges:</h4>
 
 - Stronger Unique inaccessible Key generation.
 
-#### Market Benifits:
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Secure Network with stronger keys.
 
@@ -146,12 +150,12 @@ The primary goal of compression is in maintaining the integrity of the data/file
   <em>Compression [<a href="https://leenahmad.github.io/advanced-js-reading-notes/24-Auth.html">11</a>]</em>
 </p>
 
-#### Challenges:
+<h4 style="color: red;">Challenges:</h4>
 
 - storage efficiency.
 - Overhead for compression.
 
-#### Market Benifits:
+<h4 style="color: green;">Market Benifits:</h4>
 
 Bandwidth optimization,Cost Reduction,Improved Performance,Enhanced security.
 
@@ -169,12 +173,12 @@ Analysis of network traffic is critical for cyber-secuirty.It involves monitorin
   <em>Network traffic analysis [<a href="https://giphy.com/gifs/network-jpZvG8KmaVtF6">20</a>]</em>
 </p>
 
-#### Challenges:
+<h4 style="color: red;">Challenges:</h4>
 
 - handling large volumes of data.
 - identifying sophiscated attack patterns.
 
-#### Market Benifits:
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Enhanced threat detection.
 - mitigate risks effectively.
@@ -193,12 +197,12 @@ It helps in monitoring network or system activities for malicious activities.It 
   <em>Intrusion Detection </em>
 </p>
 
-#### Challenges:
+<h4 style="color: red;">Challenges:</h4>
 
 - Complexity of threats-sophiscated and evolving attack techniques.
 - Timely detection.
 
-#### Market Benifits:
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Early detection of cyber threats.
 
@@ -216,12 +220,12 @@ Network security becomes a major part of cyber security and to build these secur
   <em>Network Security[<a href="https://www.hst.world/cyber-security/">21</a>]</em>
 </p>
 
-#### Challenges:
+<h4 style="color: red;">Challenges:</h4>
 
 - Complexity of Networks - diverse topologies and configurations.
 - Development of security measures with network performance.
 
-#### Market Benifits:
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Improved reliability
 
@@ -239,12 +243,12 @@ It regulates who can view what resources in a computing environment.It helps in 
   <em>Access Control [<a href="https://dribbble.com/shots/5474610-secure-transactions">22</a>]</em>
 </p>
 
-#### Challenges:
+<h4 style="color: red;">Challenges:</h4>
 
 - Complexity in managment- With larger data resources become difficult to handle.
 - scaling without performance degradation
 
-#### Market Benifits:
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Protecting sensitive information from unauthorised access.
 
@@ -262,11 +266,11 @@ Secure random number generation is important in context of cybersecurity to ensu
   <em>Random Number [<a href="https://www.tpsearchtool.com/images/download-number-gif-generator-png-gif-base">23</a>]</em>
 </p>
 
-#### Challenges:
+<h4 style="color: red;">Challenges:</h4>
 
 - Cryptographic Strength-Ensuring resistance of generated numbers to predictive attacks.
 
-#### Market benifits:
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Security in cryptographic operations such as encryption keys, digital signatures and secure communications.
 - Reduce risk of cryptographic vulnerabilities.
@@ -285,12 +289,12 @@ The aim of malware detection is to identify and mitigate malicious software that
   <em>Malware [<a href="https://dribbble.com/shots/2417386-The-Hacker">24</a>]</em>
 </p>
 
-#### Challenges
+<h4 style="color: red;">Challenges:</h4>
 
 - Increased latency, affecting system performance.
 - Encrypted Malwares- difficult to identify.
 
-#### Market Benifits
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Reduces risk of financial loss,operational disruption and reputational damage.
 - Customer Trust.
@@ -310,12 +314,12 @@ For any secure network it is critical to ensure keys are generated and stored se
   <em>Encryption key [<a href="https://dribbble.com/shots/3839034-Tech-Animation-7-2-Key-Encryption-V1">14</a>]</em>
 </p>
 
-#### Challenges
+<h4 style="color: red;">Challenges:</h4>
 
 - scalability- can be complex and resource-intensive.
 - secure generation and storage of keys.
 
-#### Market Benifits
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Protection of sensitive data from unauthorized access.
 
@@ -333,12 +337,12 @@ Used in threat intelligence systems for tracking unique items such as ip address
   <em>Threat Intelligence [<a href="https://www.bdigital.co.nz/antivirus/">25</a>]</em>
 </p>
 
-#### Challenges
+<h4 style="color: red;">Challenges:</h4>
 
 - Handling large data.
 - Integration with exxisting systems.
 
-#### Market Benifits
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Enhanced Threat detection.
 - Faster Response and mitigation of threats.
@@ -357,11 +361,11 @@ Audit-logs serve as critical information for mainatining chronological sequence 
   <em> Chronological event tracking [<a href="https://www.pinterest.com/pin/animation-for-analytics-monitoring--9499849193998213/">26</a>]</em>
 </p>
 
-#### Challenges
+<h4 style="color: red;">Challenges:</h4>
 
 - Managing and storing large volumes of audit log data efficiently.
 
-#### Market Benifits
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Early detection of anamolies.
 - Risk mitigation.
@@ -380,12 +384,12 @@ Encryption plays a crucial role in cybersecurity by converting plain text to cip
   <em>Encryption [<a href="https://www.host.co.in/blog/wp-content/uploads/2019/04/Encryption.gif">16</a>]</em>
 </p>
 
-#### Challenges
+<h4 style="color: red;">Challenges:</h4>
 
 - Key Managment.
 - Can lead to performance overhead.
 
-#### Market Benifits
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Data security.
 - Cloud security.
@@ -405,11 +409,11 @@ Password storage is an important part of cybersecurity.As,passwords contain sens
   <em>Password storage [<a href="https://www.pinterest.com.au/pin/628674429212895416/">27</a>]</em>
 </p>
 
-#### Challenges
+<h4 style="color: red;">Challenges:</h4>
 
 - Password managment and security
 
-#### Market benifits
+<h4 style="color: green;">Market Benifits:</h4>
 
 - User security.
 - Prevention of hacking
@@ -422,11 +426,11 @@ Password storage is an important part of cybersecurity.As,passwords contain sens
 
 Passwords must be securely stored making it difficult to crack password by unauthorized users.It is important to add additional layers to hashed passwords to protect and support onlu authorized access.
 
-#### Challenges
+<h4 style="color: red;">Challenges:</h4>
 
 - Secured password hashing
 
-#### Market Benifits
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Enhanced security
 - Improved performance
