@@ -20,7 +20,7 @@
 Welcome to my portfolio! Within this repository, you'll find my ideas and exploarations towards cyber-security utilizing data structures and algorithms.
 
 <p align="center">
-  <img src="../images/rbac.png" alt="Merkle Tree Image" style="width: 500px;">
+  <img src="images/intro.gif" alt="Merkle Tree Image" style="width: 500px;">
   <br>
   <em>Cyber-Security [<a href="https://www.esds.co.in/blog/top-5-cybersecurity-threats-to-dominate-2020/">17</a>]</em>
 </p>
