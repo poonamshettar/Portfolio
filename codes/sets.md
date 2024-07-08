@@ -27,7 +27,6 @@ int main()
     st.insert(10);
     st.insert(15);
 
-    // printing the element in a set
     for (auto it : st) {
         cout << it << ' ';
     }

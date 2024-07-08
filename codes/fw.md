@@ -15,23 +15,20 @@ To find shortest paths between all pairs of vertices in a weighted, directed or 
 #include <bits/stdc++.h>
 using namespace std;
 
-// Number of vertices in the graph
 #define V 4
 
 #define INF 99999
 
-// A function to print the solution matrix
 void printSolution(int dist[][V]);
 
-// Solves the all-pairs shortest path
-// problem using Floyd Warshall algorithm
+
 void floydWarshall(int dist[][V])
 {
 
     int i, j, k;
 
     for (k = 0; k < V; k++) {
-        // Pick all vertices as source one by one
+
         for (i = 0; i < V; i++) {
             for (j = 0; j < V; j++) {
                 if (dist[i][j] > (dist[i][k] + dist[k][j])
@@ -42,11 +39,9 @@ void floydWarshall(int dist[][V])
         }
     }
 
-    // Print the shortest distance matrix
     printSolution(dist);
 }
 
-/* A utility function to print solution */
 void printSolution(int dist[][V])
 {
     cout << "The following matrix shows the shortest "
@@ -64,7 +59,6 @@ void printSolution(int dist[][V])
     }
 }
 
-// Driver's code
 int main()
 {
 
@@ -73,10 +67,9 @@ int main()
                         { INF, INF, 0, 1 },
                         { INF, INF, INF, 0 } };
 
-    // Function call
+
     floydWarshall(graph);
     return 0;
 }
 
-// This code is contributed by Mythri J L
 ```
