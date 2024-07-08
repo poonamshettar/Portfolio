@@ -60,12 +60,12 @@ In today's digital age, cybersecurity has become critically important as technol
 
 Data integrity verification is important for protecting data from unauthorized access,corruption and other cyber threats.The verification guarantees data accuracy making organizations to confidently rely on information.It helps in ensurin the data remains consistent and unchanged by unauthorized entities throughout its lifetime.
 
-#### Challenges:
+<h4 style="color: red;">Challenges:</h4>
 
 - Latency - Degradation of network performance.
 - Computation Overhead.
 
-#### Market Benifits:
+<h4 style="color: green;">Market Benifits:</h4>
 
 - Enhanced trust.
 - Reputation protection of organizations.
