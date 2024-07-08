@@ -10,7 +10,7 @@
 
 #### Steps:
 
-```latex
+```markdown
 1. Select two prime numbers \( p \) and \( q \).
 2. Compute \( n = p \times q \) and \( \phi(n) = (p-1) \times (q-1) \).
 3. Choose \( e \) such that \( \text{gcd}(e, \phi(n)) = 1 \).
