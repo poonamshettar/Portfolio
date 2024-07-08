@@ -1,4 +1,4 @@
-<!-- # 🔐Cyber Armor - Algorithmic Security🔐
+# 🔐Cyber Armor - Algorithmic Security🔐
 
 ---
 
@@ -485,4 +485,4 @@ Passwords must be securely stored making it difficult to crack password by unaut
 
 [26] Pinterest, "Animation for Analytics Monitoring," Pinterest, 2024. [Online]. Available: https://www.pinterest.com/pin/animation-for-analytics-monitoring--9499849193998213/. [Accessed: Jul. 8, 2024].
 
-[27] Pinterest, "Home Automation - Pinterest," Pinterest, 2024. [Online]. Available: https://www.pinterest.com.au/pin/628674429212895416/. [Accessed: Jul. 8, 2024]. -->
+[27] Pinterest, "Home Automation - Pinterest," Pinterest, 2024. [Online]. Available: https://www.pinterest.com.au/pin/628674429212895416/. [Accessed: Jul. 8, 2024].
