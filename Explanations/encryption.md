@@ -19,3 +19,9 @@
 
 - The Catalan-number-based keys can be used to encrypt data using the Lattice Path encryption algorithm.[1]
 - This algorithm leverages the binary representation of the key to guide a path through a discrete lattice, with the 1s and 0s determining the movement.
+
+<p align="center">
+  <img src="../images/catalan.png" alt="Merkle Tree Image" style="width: 400px;">
+  <br>
+  <em>Encryption using catalan numbers and lattice path combinatorial problem[1]</em>
+</p>
