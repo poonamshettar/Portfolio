@@ -28,11 +28,11 @@ In RBAC permissions are associated with roles and roles are assigned to users.
 
 - <b>Djikstra's Algorithm</b>: Shortest path in permission hirearchies for least privilege access.
 
-  [click for code and complexity analysis of Djikstra's](../code/djikstra.md)
+  [click for code and complexity analysis of Djikstra's](../codes/djikstra.md)
 
 - <b>Topological Sort</b>:To resolve conflicts in permissions.
 
-  [click for code of and complexity analysis Topological Sort](../code/topo.md)
+  [click for code of and complexity analysis Topological Sort](../codes/topo.md)
 
 ### Hirearchial Access Control:
 
