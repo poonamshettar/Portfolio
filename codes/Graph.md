@@ -2,6 +2,16 @@
 
 Depth first search, breadth first search.
 
+<p align="center">
+  <img src="../images/DFS.gif" alt="Depth First Search" style="width: 600px; height:400px">
+  <br>
+</p>
+
+<p align="center">
+  <img src="../images/BFS.gif" alt="Breadth First" style="width: 600px; height:400px">
+  <br>
+</p>
+
 #### Complexity Analysis
 
 | **Algorithm** | **Time Complexity** | **Space Complexity** |
